@@ -2,7 +2,7 @@
 
 ## Aim :
 Construct a python program to read a text from a file.Identify the verbs from the text file and provide synonyms for all verbs using Natutal Language Processing 
-
+ 
 ## Algorithm:
  1. Import the necessary libraries: `nltk` and `wordnet`.
 2. Define a function `get_verbs(sentence)` to identify verbs in a given sentence using part-of-speech tagging.
