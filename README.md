@@ -22,8 +22,6 @@ Print the verbs and their synonyms.
 6.Execute the main program.
 
 ## Program:
-```
-
 import nltk
 from nltk.corpus import wordnet
 
