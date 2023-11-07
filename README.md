@@ -20,7 +20,7 @@ Append the identified verbs to the all_verbs list.
 For each verb, call the get_synonyms() function to get its synonyms and store them in the synonyms_dict dictionary.
 Print the verbs and their synonyms.
 6.Execute the main program.
-
+```
 ## Program:
 import nltk
 from nltk.corpus import wordnet
