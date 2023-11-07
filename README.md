@@ -31,7 +31,7 @@ nltk.download('averaged_perceptron_tagger')
 nltk.download('wordnet')
 nltk.download('punkt')
 
-# Function to identify verbs in a sentence
+ Function to identify verbs in a sentence
 def get_verbs(sentence):
     verbs = []
     pos_tags = nltk.pos_tag(nltk.word_tokenize(sentence))
